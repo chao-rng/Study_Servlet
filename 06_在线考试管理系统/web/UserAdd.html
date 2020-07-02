@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User_Add</title>
+</head>
+<body>
+    <!--如何将这个页面的参数提交呢？
+    一定要想到form表单的action属性来提交
+    -->
+    <form action="user/add" method="get">
+        <table border="2" align="center" >
+            <tr>
+                <td>用户姓名</td>
+                <td><input type="text" name="userName"></td>
+            </tr>
+            <tr>
+                <td>用户密码</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <!--单选框必须手动指定value-->
+                <td>用户性别</td>
+                <td><input type="radio" name="sex" value="男">男
+                <input type="radio" name="sex" value="女">女</td>
+            </tr>
+            <tr>
+                <td>用户邮箱</td>
+                <td><input type="text" name="email"></td>
+            </tr>
+            <tr>
+                <!--进行单元格合并：colspan="2"表示自左向右合并两个单元格-->
+                <td colspan="2" align="center"><input type="submit" value="用户注册">
+                <input type="reset"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

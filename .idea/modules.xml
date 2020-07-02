@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06_在线考试管理系统/06_在线考试管理系统.iml" filepath="$PROJECT_DIR$/06_在线考试管理系统/06_在线考试管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_HTTP状态码——302/07_HTTP状态码——302.iml" filepath="$PROJECT_DIR$/07_HTTP状态码——302/07_HTTP状态码——302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_HTTP状态码——405/08_HTTP状态码——405.iml" filepath="$PROJECT_DIR$/08_HTTP状态码——405/08_HTTP状态码——405.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_HTTP状态码——500/09_HTTP状态码——500.iml" filepath="$PROJECT_DIR$/09_HTTP状态码——500/09_HTTP状态码——500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_重定向解决方案/10_重定向解决方案.iml" filepath="$PROJECT_DIR$/10_重定向解决方案/10_重定向解决方案.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_请求转发解决方案/11_请求转发解决方案.iml" filepath="$PROJECT_DIR$/11_请求转发解决方案/11_请求转发解决方案.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ServletContext/12_ServletContext.iml" filepath="$PROJECT_DIR$/12_ServletContext/12_ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Cookie/13_Cookie.iml" filepath="$PROJECT_DIR$/13_Cookie/13_Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_HttpSession模拟购物车功能/14_HttpSession模拟购物车功能.iml" filepath="$PROJECT_DIR$/14_HttpSession模拟购物车功能/14_HttpSession模拟购物车功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Study_Servlet.iml" filepath="$PROJECT_DIR$/Study_Servlet.iml" />
+    </modules>
+  </component>
+</project>
